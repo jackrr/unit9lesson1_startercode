@@ -1,10 +1,16 @@
-# unit9lesson1_startercode
+# External stylesheets and external javascript
 
-In this project you will be linking pages together use the `a` tag
+In this lesson you'll be rendering gifs!
 
-To do this you will need to do the following:
+Right now, index.html shows a cat gif.
+Each of the linked pages, however,
+has a problem keeping the gifs from rendering.
 
-1. On index.html create three links. One to each of the files in the pages folder.
-2. On page1.html create three links. One to the other 2 pages in the pages folder and one to index.html
-3. On page2.html create three links. One to the other 2 pages in the pages folder and one to index.html
-4. On page3.html create three links. One to the other 2 pages in the pages folder and one to index.html
+Your job is to make the correct gifs appear on each of the following pages:
+
+* `pages/drake.html`
+* `pages/kanye.html`
+* `pages/rihanna.html`
+
+Each page has a different problem. The folks at HQ dropped the
+ball, now it's up to YOU to make the pages right again.
